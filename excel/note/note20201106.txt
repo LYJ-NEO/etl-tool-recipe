@@ -1,0 +1,98 @@
+---
+title:
+---
+
+0 附录URL
+
+*** Excel介绍：
+https://support.microsoft.com/zh-cn/office/excel-%e8%a7%84%e8%8c%83%e4%b8%8e%e9%99%90%e5%88%b6-1672b34d-7043-467e-8e27-269d656771c3?ui=zh-cn&rs=zh-cn&ad=cn
+
+*** PowerPivot 文档：
+https://support.microsoft.com/zh-cn/office/microsoft-excel-%e4%b8%ad%e7%9a%84-powerpivot-%e5%85%a5%e9%97%a8-fdfcf944-7876-424a-8437-1a6c1043a80b?ui=zh-cn&rs=zh-cn&ad=cn
+
+*** PowerPivot example 文件:
+https://www.microsoft.com/en-us/download/details.aspx?id=102
+
+https://archive.codeplex.com/?p=powerpivotsdr
+
+*** power query & power pivot
+
+the relationship：
+
+https://support.microsoft.com/en-us/office/how-power-query-and-power-pivot-work-together-a5f52cba-2150-4fc0-bb8f-b21d69990bc0
+
+https://support.microsoft.com/zh-cn/office/microsoft-power-query-for-excel-%e7%ae%80%e4%bb%8b-6e92e2f4-2079-4e1f-bad5-89f6269cd605?ui=zh-cn&rs=zh-cn&ad=cn#:~:text=With%20Power%20Query%2C%20you%20can%201%20Find%20and,Big%20Data%20and%20Azure%20HDInsight.%20More%20items...%20
+
+https://exceltown.com/en/tutorials/power-bi/powerbi-com-and-power-bi-desktop/dax-query-language-for-power-bi-and-power-pivot-2/what-is-what-power-query-power-pivot-power-view/#:~:text=Power%20Query%20can%20be%20used%20for%20getting%20data,to%20Excel%2C%20but%20make%20nice%20transformations%20as%20well.
+
+Power Query can be used for getting data to Excel, Power Pivot manages the data stored in Data Model and Power View presents the data in reports
+
+
+*** AdventureWorks Databases 
+https://github.com/Microsoft/sql-server-samples/releases/tag/adventureworks
+
+
+
+知识点回顾： 
+
+1-1 Evaluating Data in the Real World
+	the field of statistics is all about decision-making  -- 决策
+	Statisticians constantly ask questions: What do the numbers tell us? What are the trends? What predictions can we make? What conclusions can we draw
+
+	To answer these questions, statisticians have developed an impressive array of analytical tools
+	These tools help us to make sense of the mountains of data that are out there waiting for us to delve into, and to understand the
+	numbers we generate in the course of our own work
+	
+	* Samples and populations  样本与总体，之间的预测关系
+	
+	* Variables: Dependent and independent 变量
+	
+	* Types of data  
+	
+	认识 Excel 2013 ， 对Ribbon进行介绍
+	
+1-2 Knowing the Fundamentals
+	
+	sheet与坐标系 
+	
+	1-2-1 Autofilling cells
+	what is cell ； 
+	
+	-- That “+” is called the cell’s fill handle
+	-- the fill Fill pop-up menu 
+	
+	1-2-2 Referencing cells   the symbol of $ , the F4 to set 
+	example: 计算占比中，使用绝对引用方式 , 使用快捷键 F4 进行绝对与相对引用
+	
+	
+2-1 关于Excel的统计
+	
+	--> formulas   --  基本使用方式的说明，要注意的几点：参数窗口 、 公式栏 。要介绍参数窗口 , 注意在公式栏中的公式形式
+	the steps 方式进行说明： 
+
+	--> Quickly accessing statistical functions 
+	
+	--> Array functions :  Ctrl+Shift+Enter
+	
+	--> Creating your own array formulas  	p74
+	
+2-2 Using data analysis tools     p77
+
+	Excel 2013 has a set of sophisticated tools for data analysis
+	
+	如何添加 analysis tools 
+	
+	使用analysis tools中的工作进行数据分析，example 
+	
+2-3 插入可视化图 -- p92
+	
+	--> the insert steps 
+	
+	
+## Describing Data
+
+
+
+
+	
+
